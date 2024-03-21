@@ -1,0 +1,20 @@
+{
+  "name": "colorful-terminal-logger",
+  "version": "1.0.1",
+  "description": "A simple and colorful logger for console applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunoetchings/colorful-terminal-logger"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "winston": "^3.3.3"
+  },
+  "author": "Artem Logov",
+  "license": "ISC"
+}
